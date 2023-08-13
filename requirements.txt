@@ -1,0 +1,13 @@
+db-dtypes==1.1.*
+pandas==2.0.*
+google-cloud==0.34.*
+google-cloud-bigquery==3.11.*
+google-cloud-speech==2.20.*
+google-cloud-storage==2.10.*
+sqlalchemy==2.0.*
+python-dotenv==1.0.*
+psycopg2-binary==2.9.*
+pmdarima==2.0.*
+matplotlib==3.7.*
+flask==2.3.*
+
